@@ -1,0 +1,8 @@
+Installing Libraries:
+1. pip install SpeechRecognition
+2. pip install gTTS
+3. pip install playsound
+4. pip install pyaudio:  
+    This will give a error, but it can be solved by downloading .whl
+    file from the following link:
+    https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
